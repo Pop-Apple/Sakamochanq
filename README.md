@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sakamochanq">
+</p>
+
+---
+
+### Hi there 👋 I'm Sakamochanq
 
 <!--
 **Sakamochanq/Sakamochanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
