@@ -6,6 +6,6 @@
 
 ### <p align="center">[Sakamochanq.github.io](https://sakamochanq.github.io/)</p>
   
-### <p align="center">Help me ~~</p>
+### <p align="center">Help me</p>
 
 ---
