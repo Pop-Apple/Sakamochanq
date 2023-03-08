@@ -6,6 +6,6 @@
 
 ### <p align="center">[Sakamochanq.github.io](https://sakamochanq.github.io/)</p>
   
-### <p align="center">I'm very busy right now</p>
+### <p align="center">😊 I'm very busy right now</p>
 
 ---
