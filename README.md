@@ -8,4 +8,17 @@
   
 ### <p align="center">😊 I'm very busy right now</p>
 
+<br>
+
+```cs
+var Message = "Hello World";
+
+Console.WriteLine(Message)
+
+---
+
+Hello World
+
+```
+
 ---
