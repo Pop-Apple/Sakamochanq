@@ -9,7 +9,6 @@
 ### <p align="center">😊 I'm very busy right now</p>
 
 <br>
-<br>
 
 ```mermaid
 graph LR
@@ -18,6 +17,7 @@ graph LR
 
   subgraph "User"
     A-1[Sakamochanq]
+    A-2[Pop-Apple]
 
   end
 
@@ -28,7 +28,11 @@ graph LR
     A-1 --> B-2[C]
     B-2 --> C-3[C#]
     B-2 --> C-4[C++]
-    A-1 --> B-3[Markdown]
+
+  end
+
+  subgraph "Other"
+    A-2 --> B-3[Unknown]
 
   end
 ```
