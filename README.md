@@ -11,19 +11,13 @@
 ---
 
 ```mermaid
-
 graph LR
 
   %%{init: {"theme" : "dark" }}%%
 
   subgraph "User"
+
     A-1[Sakamochanq]
 
   end
-
-  subgraph "To Do"
-    A-1 --> B-1[HTML]
-
-  end
-
 ```
