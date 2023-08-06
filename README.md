@@ -10,6 +10,8 @@
 
 ---
 
+<!--
+
 ```mermaid
 graph LR
 
@@ -21,3 +23,5 @@ graph LR
 
   end
 ```
+
+-->
